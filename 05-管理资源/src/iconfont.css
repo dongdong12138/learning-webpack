@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('./assets/iconfont.ttf?t=1650766084662') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-airplane:before {
+  content: "\e8db";
+}
+
+.icon-bus:before {
+  content: "\e8dc";
+}
+
+.icon-bottle:before {
+  content: "\e8dd";
+}
+
+.icon-book:before {
+  content: "\e8de";
+}
+

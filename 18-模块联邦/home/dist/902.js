@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhome=self.webpackChunkhome||[]).push([[902],{902:(e,l,t)=>{t.r(l),t.d(l,{default:()=>u});const u=e=>{let l="<ul>";for(let t=0;t<e;t++)l+="<li>item "+t+"</li>";return l+="</ul>",l}}}]);
